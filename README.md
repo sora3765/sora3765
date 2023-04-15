@@ -20,4 +20,4 @@
 <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
 
 - Class of 2024
-
+- [SORAのメモ帳](https://warm-cascaron-0c6d56.netlify.app)
